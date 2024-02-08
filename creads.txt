@@ -1,0 +1,9 @@
+{'username': 'JAYESH', 'password': '32533', 'email': 'nakum.jayesh@gmail.com', 'number': '54654645'}
+{'username': 'SURAJ', 'password': '12345', 'email': 'suraj.123@gmail.com', 'number': '9924556790'}
+{'username': 'adam', 'password': '12345', 'email': 'adm@gmail.com', 'number': '46345'}
+{'username': 'admin', 'password': 'admin', 'email': 'adm@gmail.com', 'number': '795723498'}
+{'username': 'NIKHIL', 'password': '12345', 'email': 'nikhil@gmai.com', 'number': '4325345324'}
+{'username': 'bhautik', 'password': '12345', 'email': 'bhautik@gmail.com', 'number': '456789012'}
+{'username': 'root', 'password': 'root', 'email': 'root@gmail.com', 'number': '9945128990'}
+{'username': 'jayesh', 'password': 'jayesh', 'email': 'jayesh@gmail.com', 'number': '9924001891'}
+{'username': 'pritesh', 'password': '12345', 'email': 'pritesh@gmail.com', 'number': '9923751744'}
